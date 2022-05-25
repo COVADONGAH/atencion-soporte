@@ -1,1 +1,1 @@
-# Centro dde atencion y soporte COVADONGA
+# Centro de atencion y soporte COVADONGA
