@@ -1,0 +1,18 @@
+[
+    {
+        "id": "HCC",
+        "nombre": "Hospital Córdoba"
+    },
+    {
+        "id": "HCO",
+        "nombre": "Hospital Orizaba"
+    },
+    {
+        "id": "HCV",
+        "nombre": "Hospital Veracruz"
+    },
+    {
+        "id": "GV",
+        "nombre": "Gabinete Veracruz"
+    }
+]
