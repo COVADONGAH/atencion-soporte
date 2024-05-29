@@ -1,37 +1,37 @@
 [
     {
-      "id": "626a21ae2d2ecec50035cf7e",
-      "idBoard": "626a21ae6535dd0abe4b0add",
+      "id": "665771671c8e48c2e3f5afdd",
+      "idBoard": "665771641c8e48c2e3f59559",
       "name": "Hospital Córdoba",
-      "color": "orange"
-    },
-    {
-      "id": "626a21ae2d2ecec50035cf7a",
-      "idBoard": "626a21ae6535dd0abe4b0add",
-      "name": "Gabinete Veracruz",
-      "color": "green"
-    },
-    {
-      "id": "626a21ae2d2ecec50035cf82",
-      "idBoard": "626a21ae6535dd0abe4b0add",
-      "name": "Hospital Veracruz",
       "color": "blue"
     },
     {
+      "id": "665771671c8e48c2e3f5afd1",
+      "idBoard": "665771641c8e48c2e3f59559",
+      "name": "Gabinete Veracruz",
+      "color": "orange"
+    },
+    {
+      "id": "665771671c8e48c2e3f5afcd",
+      "idBoard": "665771641c8e48c2e3f59559",
+      "name": "Hospital Veracruz",
+      "color": "green"
+    },
+    {
       "id": "626a21ae2d2ecec50035cf83",
-      "idBoard": "626a21ae6535dd0abe4b0add",
+      "idBoard": "665771641c8e48c2e3f59559",
       "name": "",
       "color": "purple"
     },
     {
-      "id": "626a21ae2d2ecec50035cf7c",
-      "idBoard": "626a21ae6535dd0abe4b0add",
+      "id": "665771671c8e48c2e3f5afc9",
+      "idBoard": "665771641c8e48c2e3f59559",
       "name": "Hospital Orizaba",
       "color": "yellow"
     },
     {
-      "id": "626a21ae2d2ecec50035cf81",
-      "idBoard": "626a21ae6535dd0abe4b0add",
+      "id": "665771671c8e48c2e3f5afd4",
+      "idBoard": "665771641c8e48c2e3f59559",
       "name": "URGENTE",
       "color": "red"
     }
